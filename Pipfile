@@ -7,9 +7,12 @@ name = "pypi"
 requests = "*"
 selenium = "*"
 pandas = "*"
+jupyter = "*"
+notebook = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.10"
-python_full_version = "3.10.7"
+python_version = "3.9"
+#python_full_version = "3.10.7"
